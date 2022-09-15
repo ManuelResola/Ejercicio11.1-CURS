@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="SpringBoot" type="Application" factoryName="Application">
+    <envs>
+      <env name="server.port" value="8081" />
+    </envs>
+    <option name="MAIN_CLASS_NAME" value="com.bosonit.formacion.ej7.crudvalidation.Application" />
+    <module name="ej7.1-crud-validation" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
